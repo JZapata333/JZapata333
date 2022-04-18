@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jzapata333
 - 👀 I’m interested in developing myself in programming
-- 🌱 I’m currently learning HTML, CSS, Javascript and Python
-- 💞️ I’m looking to collaborate on ...will get back to you on this one!
+- 🌱 I’m currently learning Scala, Hadoop, Spark, Kafka
+- 💞️ I’m looking for a position in Big Data
 - 📫 How to reach me: javier.zapata333@gmail.com
 
 <!---
